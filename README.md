@@ -59,6 +59,9 @@ JavaScript: The application logic is implemented in JavaScript, handling user in
 WebSocket: A mock WebSocket server is used to simulate real-time messaging. In a production environment, this would connect to a real WebSocket server to handle message broadcasting and user management.
 
 Image Representation
+
+<img width="1695" height="1007" alt="Image" src="https://github.com/user-attachments/assets/742c05fe-7a07-436f-9ca4-1c46a80935d0" />
+
 Here is a conceptual image representation of the Real-Time Chat Application:
 
 Real-Time Chat Application
