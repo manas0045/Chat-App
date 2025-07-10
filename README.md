@@ -15,7 +15,7 @@
 Description of the Real-Time Chat Application
 The Real-Time Chat Application is a web-based platform designed to facilitate instant communication between users. Built using HTML, CSS, and JavaScript, this application leverages the Tailwind CSS framework for styling and a mock WebSocket server for real-time message handling. The application is structured to provide a user-friendly interface that allows users to join chat rooms, send messages, and see who is online.
 
-<img width="1752" height="936" alt="Image" src="https://github.com/user-attachments/assets/3588439a-bf11-4a3d-877d-d2a2a2b77b5f" />
+
 
 Key Features
 User Authentication: Upon entering the chat, users can choose a username or join as a guest. This feature enhances personalization and allows users to identify each other easily.
